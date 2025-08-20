@@ -53,3 +53,4 @@ Customize apps and IPTV channels however you like
  ```
 
 # Screenshots
+![TV OS Linux Home Screen](https://github.com/tuoaccount/TV-OS-Linux/raw/main/home_screen.png)
