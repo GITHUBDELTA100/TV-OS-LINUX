@@ -55,3 +55,4 @@ Customize apps and IPTV channels however you like
 # Screenshots
 ![TV OS Linux Home Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxscr.png)
 ![TV OS Linux Setting Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxsc2.png)
+![TV OS Linux Apps Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxscr3.png)
