@@ -1,40 +1,55 @@
 # TV-OS-LINUX
 
-Features 💣
+TV OS Linux is a fast and minimal Arch Linux-based OS designed to turn your PC or compatible device into a smart TV powerhouse, with built-in support for Samsung TV Plus IPTV.
 
-Sistema leggero e stabile basato su Arch Linux
+## Features 💣
 
-Interfaccia ottimizzata per TV e display grandi
+Lightweight and stable Arch Linux base
 
-Supporto IPTV Samsung TV Plus integrato
+TV-optimized interface for big screens
 
-Boot rapido e ambiente minimal per guardare contenuti senza lag
+Built-in Samsung TV Plus IPTV support
 
-Possibilità di personalizzazione e aggiunta di app secondo le tue esigenze
+Fast boot and minimal environment for smooth streaming
 
+Fully customizable apps and channels
 
-Requisiti ⚡
+## Requirements ⚡
 
-PC o device compatibile con Arch Linux
+PC or device compatible with Arch Linux
 
-Connessione Internet stabile per IPTV
+Stable internet connection for IPTV
 
-Minimum: 2GB RAM, 20GB storage (consigliato più per performance ottimali)
+Minimum: 2GB RAM, 20GB storage (more recommended for best performance)
 
-Installazione 🚀
+## Installation 🚀
 
-Scarica l’ISO dal repository o link ufficiale
+Download the ISO from the repo or official link
 
-Crea una USB bootabile con Etcher o Rufus
+Make a bootable USB using Etcher or Rufus
 
-Avvia il device dalla USB
+Boot your device from the USB
 
-Segui il setup guidato e configura la tua connessione IPTV
+Follow the setup wizard and configure your IPTV
 
-Uso 🎮
+## How to Use 🎮
 
-Una volta avviato, troverai la UI minimal pronta per guardare Samsung TV Plus
+Once booted, the minimal UI is ready to watch Samsung TV Plus
 
-Navigazione semplice con telecomando o tastiera
+Navigate with a remote or keyboard
 
-Personalizza app e canali IPTV a tuo piacimento
+Customize apps and IPTV channels however you like
+
+## How to connect your wifi??
+
+```bash
+# first exit from kodi.
+ $ rfkill unblock all
+ $ iwctl
+ $ device list
+ $ station (yourdevice) connect (your wifi)
+ $ Passphrase: yourwifipassword
+ $ kodi
+ ```
+
+# Screenshots
