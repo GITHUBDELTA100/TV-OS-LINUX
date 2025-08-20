@@ -40,7 +40,6 @@ Once booted, the UI is ready to watch Samsung TV Plus
 
 Navigate with a remote or keyboard
 
-Customize apps and IPTV channels however you like
 
 ## How to connect your wifi??
 
