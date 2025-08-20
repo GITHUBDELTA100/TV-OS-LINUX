@@ -22,6 +22,8 @@ Stable internet connection for IPTV
 
 Minimum: 2GB RAM, 20GB storage (more recommended for best performance)
 
+ A good and fast usb
+ 
 ## Installation 🚀
 
 Download the ISO from the repo or official link
@@ -30,11 +32,11 @@ Make a bootable USB using Etcher or Rufus
 
 Boot your device from the USB
 
-Follow the setup wizard and configure your IPTV
+Enjoy!
 
 ## How to Use 🎮
 
-Once booted, the minimal UI is ready to watch Samsung TV Plus
+Once booted, the UI is ready to watch Samsung TV Plus
 
 Navigate with a remote or keyboard
 
