@@ -30,6 +30,8 @@ Download the ISO from the repo or official link
 
 Make a bootable USB using Etcher or Rufus
 
+Disable Secure Boot (if you have it)
+
 Boot your device from the USB
 
 Enjoy!
@@ -61,6 +63,7 @@ Navigate with a remote or keyboard
 ![TV OS Linux Home Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxscr.png)
 ![TV OS Linux Setting Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxsc2.png)
 ![TV OS Linux Apps Screen](https://github.com/GITHUBDELTA100/TV-OS-LINUX/blob/main/tvoslinuxscr3.png)
+
 
 
 # Credits
