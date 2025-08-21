@@ -1,4 +1,4 @@
-# TV-OS-LINUX
+# TV OS LINUX
 
 TV OS Linux is a fast and minimal Arch Linux-based OS designed to turn your PC or compatible device into a smart TV powerhouse, with built-in support for Samsung TV Plus IPTV.
 
