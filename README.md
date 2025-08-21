@@ -64,6 +64,7 @@ Navigate with a remote or keyboard
 - [Arch Linux](https://archlinux.org) © Arch Linux Project – rilasciato sotto la licenza GPL.
 - [SlyGuy add-ons repository](https://github.com/matthuisman/slyguy.addons) © Matt Huisman (SlyGuy) — consultare il repository originale per la licenza
 - Linus Torvalds, Creatore del kernel Linux
+- [GNU](https://www.gnu.org/home.en.html) 
 # Disclaimer
 Questo progetto è basato su Arch Linux e include Kodi, né da Matt Huisman (SlyGuy).
 Non è affiliato, supportato o approvato dal team Arch Linux né dal Team Kodi.
