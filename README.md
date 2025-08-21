@@ -16,7 +16,7 @@ Fully customizable apps and channels
 
 ## Requirements ⚡
 
-PC or device compatible with Arch Linux
+a PC
 
 Stable internet connection for IPTV
 
