@@ -63,4 +63,9 @@ Navigate with a remote or keyboard
 - [Kodi](https://kodi.tv) © Team Kodi – rilasciato sotto GPLv2
 - [Arch Linux](https://archlinux.org) © Arch Linux Project – rilasciato sotto la licenza GPL.
 
+# Disclaimer
+Questo progetto è basato su Arch Linux e include Kodi.  
+Non è affiliato, supportato o approvato dal team Arch Linux né dal Team Kodi.
+Tutti i marchi e i copyright appartengono ai rispettivi proprietari.
+
 
