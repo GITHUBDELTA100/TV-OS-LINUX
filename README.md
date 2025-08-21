@@ -66,8 +66,8 @@ Navigate with a remote or keyboard
 - Linus Torvalds, Creatore del kernel Linux
 - [GNU](https://www.gnu.org/home.en.html) 
 # Disclaimer
-Questo progetto è basato su Arch Linux e include Kodi, né da Matt Huisman (SlyGuy).
-Non è affiliato, supportato o approvato dal team Arch Linux né dal Team Kodi.
+Questo progetto è basato su Arch Linux e include Kodi e i reposity di Matt Huisman (SlyGuy).
+Non è affiliato, supportato o approvato dal team Arch Linux né dal Team Kodi é da Matt Huisman (SlyGuy).
 Tutti i marchi e i copyright appartengono ai rispettivi proprietari.
 
 
