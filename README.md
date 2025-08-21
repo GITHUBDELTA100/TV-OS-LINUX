@@ -61,5 +61,6 @@ Navigate with a remote or keyboard
 # Credits
 
 - [Kodi](https://kodi.tv) © Team Kodi – rilasciato sotto GPLv2
+- [Arch Linux](https://archlinux.org) © Arch Linux Project – rilasciato sotto la licenza GPL.
 
 
