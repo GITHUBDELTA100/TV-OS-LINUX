@@ -20,7 +20,7 @@ a PC
 
 Stable internet connection for IPTV
 
-Minimum: 2GB RAM, 20GB storage (more recommended for best performance)
+Minimum: 2GB RAM, 4 GB USB (more recommended for best performance)
 
  A good and fast usb
  
